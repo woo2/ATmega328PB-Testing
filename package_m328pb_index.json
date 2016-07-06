@@ -91,32 +91,6 @@
       "tools": [
         {
           "name":"avr-gcc",
-          "version":"4.9.2c",
-          "systems": [
-            {
-                "host":"i686-mingw32",
-                "url":"https://github.com/watterott/ATmega328PB-Testing/raw/0157dbf8333d512e75a71a3e7a9c3cb02915b371/avr-gcc-4.9.2-win32.zip",
-                "archiveFileName":"avr-gcc-4.9.2c-win32.zip",
-                "checksum":"MD5:e4786528c0a4cb009eb441da07d82ced",
-                "size":"43832130"
-            }
-          ]
-        },
-        {
-          "name":"avr-gcc",
-          "version":"4.9.2b",
-          "systems": [
-            {
-                "host":"i686-mingw32",
-                "url":"https://github.com/watterott/ATmega328PB-Testing/raw/d37d112a5661098fbf14e7c2faca3c9c9fcf3b7f/avr-gcc-4.9.2-win32.zip",
-                "archiveFileName":"avr-gcc-4.9.2b-win32.zip",
-                "checksum":"MD5:4dd147d70307775b705636ffa66f8a4b",
-                "size":"43772922"
-            }
-          ]
-        },
-        {
-          "name":"avr-gcc",
           "version":"4.9.2",
           "systems": [
             {
